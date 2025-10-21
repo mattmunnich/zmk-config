@@ -17,7 +17,7 @@ manifest:
       remote: zmkfirmware
       revision: v0.3
       import: app/west.yml
-    - name: zmk-apiaster-modules
+    - name: zmk-apiaster-module
       remote: nmunnich
       revision: main
     - name: zmk-rgbled-widget 
